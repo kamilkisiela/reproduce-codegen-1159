@@ -239,6 +239,11 @@ graphql-codegen-typescript-common@0.15.2:
     graphql-codegen-core "0.15.2"
     graphql-codegen-plugin-helpers "0.15.2"
 
+graphql-codegen-typescript-graphql-files-modules@^0.15.2:
+  version "0.15.2"
+  resolved "https://registry.yarnpkg.com/graphql-codegen-typescript-graphql-files-modules/-/graphql-codegen-typescript-graphql-files-modules-0.15.2.tgz#ec7883aeb6ac4ff7becab4b10e9a32e4022b244c"
+  integrity sha512-rSiY5fY74eZsP9tEBziKyrfAlZM7ZgaD+kUhPZuN30fwS0bJGBWCVhKvbypnjcN3joCgNwkeFLh4ZNNrvJUAgQ==
+
 graphql-tag@2.10.0:
   version "2.10.0"
   resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.10.0.tgz#87da024be863e357551b2b8700e496ee2d4353ae"
