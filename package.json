@@ -1,0 +1,9 @@
+{
+  "name": "reproduce-codegen-1159",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-codegen-typescript-client": "^0.15.2"
+  }
+}
