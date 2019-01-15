@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "graphql-codegen-introspection": "^0.15.2",
     "graphql-codegen-typescript-client": "^0.15.2"
   }
 }
